@@ -1,0 +1,24 @@
+# Minimal Requirements - Install these first
+# Use this if requirements.txt fails
+
+# Core Framework
+Flask
+Flask-CORS
+
+# Image Processing
+opencv-python-headless  # Headless version works better in Codespaces
+Pillow
+numpy
+
+# MediaPipe - will auto-select compatible version
+mediapipe
+
+# ML
+scikit-learn
+
+# AI Service
+google-generativeai
+
+# Utilities
+python-dotenv
+werkzeug

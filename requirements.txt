@@ -1,0 +1,23 @@
+# Core Framework
+Flask==3.0.0
+Flask-CORS==4.0.0
+
+# Image Processing
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+Pillow>=10.0.0
+numpy>=1.24.0,<2.0.0
+scikit-learn>=1.3.0
+
+# AI Service  
+google-generativeai>=0.3.0
+
+# Database (Optional for MVP)
+supabase>=2.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+werkzeug>=3.0.0
+
+# Development
+pytest>=7.4.0

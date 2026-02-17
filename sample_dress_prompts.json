@@ -1,0 +1,67 @@
+{
+  "dress_designs": [
+    {
+      "design_name": "Azure Blossom Belted Midi",
+      "design_style": "Modern Elegant A-line",
+      "silhouette": "Defined waist A-line to create curves on a rectangle frame",
+      "neckline": "V-neck to elongate the neck and complement the oval face",
+      "sleeves": "Short flutter sleeves for a light, spring feel",
+      "fabric": "Silk chiffon with a lightweight crepe lining",
+      "color_scheme": [
+        "#3b5998",
+        "#ffffff",
+        "#f5f5dc"
+      ],
+      "pattern_details": "Subtle white floral embroidery on a deep blue base",
+      "length": "Midi length, hitting mid-calf",
+      "fit": "Structured bodice with a self-tie belt to define the waistline",
+      "accessories": [
+        "Nude block heels",
+        "Pearl drop earrings"
+      ],
+      "image_generation_prompt": "High-fashion studio photography of a medium-toned woman with an oval face wearing an elegant midi-length A-line wedding guest dress. The dress features a deep navy blue (#3b5998) silk chiffon fabric adorned with delicate white floral embroidery. It has a flattering V-neckline, short flutter sleeves, and a structured waist defined by a matching fabric belt to enhance a rectangular silhouette. The skirt flows softly to mid-calf. Lighting is soft, warm spring sunshine coming from the side, highlighting the fabric's texture. Background is a minimalist cream-toned architectural space. 8k resolution, cinematic lighting, professional fashion editorial style."
+    },
+    {
+      "design_name": "Terracotta Wrap Elegance",
+      "design_style": "Sophisticated Wrap Maxi",
+      "silhouette": "Wrap style to create diagonal lines and visual waist definition",
+      "neckline": "Surplice neckline to frame the oval face shape beautifully",
+      "sleeves": "Three-quarter length bishop sleeves with buttoned cuffs",
+      "fabric": "Mid-weight satin with a soft sheen",
+      "color_scheme": [
+        "#8b4513",
+        "#d2b48c",
+        "#ffffff"
+      ],
+      "pattern_details": "Solid warm saddle brown with cream piping along the edges",
+      "length": "Ankle-length maxi",
+      "fit": "Adjustable wrap fit that adds volume to the hips and bust",
+      "accessories": [
+        "Gold statement cuff",
+        "Saddle brown leather clutch"
+      ],
+      "image_generation_prompt": "Professional fashion photography of an elegant woman with warm-undertone medium skin in a rich saddle brown (#8b4513) satin wrap maxi dress. The dress features long bishop sleeves and a surplice neckline that complements her oval face. The wrap design creates an hourglass illusion on her rectangular body shape. The fabric has a luxurious, subtle sheen. Shot in a lush spring garden at golden hour, soft bokeh background of blooming white flowers. Detailed textures of the satin and precise stitching. High-end magazine aesthetic."
+    },
+    {
+      "design_name": "Spring Petal Tiered Gown",
+      "design_style": "Romantic Tiered Cocktail Dress",
+      "silhouette": "Tiered skirt to add volume to the lower body, balancing the rectangle shape",
+      "neckline": "Boat neckline to broaden shoulders slightly and flatter the oval face",
+      "sleeves": "Sleeveless with wide straps",
+      "fabric": "Structured organza with lace overlays",
+      "color_scheme": [
+        "#ffffff",
+        "#3b5998",
+        "#8b4513"
+      ],
+      "pattern_details": "White lace with small navy blue beaded accents",
+      "length": "Tea-length",
+      "fit": "Fitted bodice with a voluminous tiered skirt starting from the natural waist",
+      "accessories": [
+        "Navy blue fascinator",
+        "Pointed-toe white pumps"
+      ],
+      "image_generation_prompt": "Detailed image of a sophisticated white organza tea-length dress for a wedding guest. The dress features a boat neckline and a fitted bodice that transitions into a voluminous tiered skirt, perfect for adding shape to a rectangular frame. Intricate navy blue (#3b5998) beading is scattered across the white lace overlay. The woman has a medium skin tone with warm undertones and an oval face. The setting is an upscale outdoor spring wedding with soft-focus floral arrangements. Studio-quality lighting, sharp focus on lace texture, vibrant yet elegant color palette."
+    }
+  ]
+}

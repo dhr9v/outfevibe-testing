@@ -1,0 +1,136 @@
+{
+  "analysis": {
+    "body_shape": "hourglass",
+    "dominant_colors": [
+      "#847d80",
+      "#7f8080",
+      "#797f7c"
+    ],
+    "face_shape": "oval",
+    "skin_tone": "medium",
+    "undertone": "warm"
+  },
+  "dress_prompts": {
+    "dress_designs": [
+      {
+        "accessories": [
+          "Nude block heels",
+          "Gold filigree drop earrings"
+        ],
+        "color_scheme": [
+          "Warm Sage #797f7c",
+          "Dusty Rose",
+          "Champagne Gold"
+        ],
+        "design_name": "The Sage Blossom Wrap",
+        "design_style": "Modern romantic A-line wrap dress",
+        "fabric": "Lightweight silk chiffon overlay with a breathable crepe de chine lining",
+        "fit": "Cinched at the natural waist with a self-tie silk belt to highlight the hourglass figure",
+        "image_generation_prompt": "High-end fashion editorial photography of an elegant woman with a medium warm skin tone wearing a tea-length sage green silk chiffon wrap dress. The dress features delicate tonal botanical embroidery and soft flutter sleeves. The silhouette perfectly defines an hourglass shape with a cinched waist. Lighting is soft, diffused spring morning sunlight in a lush botanical garden. Photographed with a Sony A7R IV, 85mm lens, f/1.8, bokeh background of cherry blossoms. Textures of the silk are visible and airy.",
+        "length": "Tea-length, hitting mid-calf for a sophisticated wedding guest look",
+        "neckline": "Surplice V-neckline to elongate the neck and complement the oval face shape",
+        "pattern_details": "Subtle tonal botanical embroidery along the hem and cuffs",
+        "silhouette": "Structured wrap style that emphasizes the narrow waist and balances the bust and hips",
+        "sleeves": "Sheer elbow-length flutter sleeves for a soft spring aesthetic"
+      },
+      {
+        "accessories": [
+          "Metallic bronze pumps",
+          "Simple gold bangle"
+        ],
+        "color_scheme": [
+          "Muted Taupe #847d80",
+          "Warm Charcoal #7f8080",
+          "Soft Bronze"
+        ],
+        "design_name": "The Taupe Drape Sheath",
+        "design_style": "Minimalist elegant midi dress",
+        "fabric": "Mid-weight luxury viscose-satin with a subtle sheen and beautiful drape",
+        "fit": "Body-skimming fit that contours the hips without being restrictive",
+        "image_generation_prompt": "Full body shot of a professional fashion model with an oval face and warm medium skin, wearing a sophisticated taupe satin midi dress. The design features an elegant boat neckline and asymmetrical pleated waist detailing that highlights an hourglass figure. Studio lighting with a soft rim light to accentuate the fabric's sheen. The background is a clean, minimalist architectural space. 8k resolution, cinematic lighting, ultra-detailed fabric texture.",
+        "length": "Midi length, finishing just below the knee",
+        "neckline": "Boat neckline (Bateau) to provide a balanced frame for the oval face and medium shoulders",
+        "pattern_details": "Asymmetrical pleating at the waist gathering into a side knot feature",
+        "silhouette": "Tailored sheath with strategic draping across the bodice to celebrate hourglass curves",
+        "sleeves": "Sleek sleeveless design with slightly wider straps for undergarment support"
+      },
+      {
+        "accessories": [
+          "Pearl stud earrings",
+          "Satin clutch in warm grey"
+        ],
+        "color_scheme": [
+          "Muted Slate #7f8080",
+          "Warm Olive",
+          "Creamy Pearl"
+        ],
+        "design_name": "The Spring Ether Midi",
+        "design_style": "Contemporary fit-and-flare cocktail dress",
+        "fabric": "Cotton-silk blend jacquard with a subtle raised floral texture",
+        "fit": "Structured bodice with a flexible internal boning for a perfect hourglass fit",
+        "image_generation_prompt": "Elegant wedding guest attire. A woman with an oval face and warm medium complexion in a structured fit-and-flare midi dress made of warm slate-colored jacquard. The dress has a sweetheart neckline and capped lace sleeves. The fabric features a rich, embossed floral texture. Captured in a sun-drenched historic courtyard during golden hour. Professional fashion photography, deep depth of field, vibrant but natural colors, 35mm film aesthetic.",
+        "length": "Midi length with a subtle high-low hemline for modern flair",
+        "neckline": "Soft sweetheart neckline to add gentle curves and complement face symmetry",
+        "pattern_details": "Intricate jacquard weave with a monochromatic floral motif",
+        "silhouette": "Panelled bodice with a flared skirt to provide movement and accentuate the waist",
+        "sleeves": "Capped sleeves with delicate lace scalloping"
+      }
+    ]
+  },
+  "personalization": {
+    "budget": "mid-range",
+    "mood": "elegant",
+    "occasion": "wedding_guest",
+    "weather": "spring"
+  },
+  "recommendations": {
+    "recommended_categories": [
+      "Satin Wrap Midi Dress",
+      "Floral Chiffon Maxi with Cinched Waist",
+      "One-Shoulder Column Gown",
+      "Tailored Wide-Leg Jumpsuit with Waist Tie",
+      "Sweetheart Neckline Fit-and-Flare Dress"
+    ],
+    "recommended_colors": [
+      {
+        "hex": "#D4AF37",
+        "name": "Warm Gold"
+      },
+      {
+        "hex": "#E2725B",
+        "name": "Terracotta"
+      },
+      {
+        "hex": "#006D5B",
+        "name": "Deep Teal"
+      },
+      {
+        "hex": "#FF7F50",
+        "name": "Coral"
+      },
+      {
+        "hex": "#808000",
+        "name": "Olive Green"
+      },
+      {
+        "hex": "#FFFDD0",
+        "name": "Warm Cream"
+      },
+      {
+        "hex": "#F7786B",
+        "name": "Peach Echo"
+      },
+      {
+        "hex": "#FFCC33",
+        "name": "Golden Yellow"
+      }
+    ],
+    "styling_tips": [
+      "Highlight your hourglass silhouette by ensuring the waist is always defined; avoid shift dresses or oversized silhouettes that hide your proportions.",
+      "Leverage your oval face shape by experimenting with diverse necklines, particularly V-necks or sweetheart necklines which add to an elegant, feminine aesthetic.",
+      "Choose gold-toned jewelry and accessories rather than silver to harmonize with your warm undertones and enhance your natural glow.",
+      "Select light, breathable fabrics like silk, chiffon, or high-quality crepe to suit the spring weather while maintaining a sophisticated wedding guest look."
+    ]
+  },
+  "status": "success"
+}
